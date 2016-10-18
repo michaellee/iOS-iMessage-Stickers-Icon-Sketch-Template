@@ -6,13 +6,17 @@ I've tried to label all the Artboards so that when exporting assets, the naming 
 
 ## Tell me if you used this template to make your iMessage Stickers
 
-Please share if you've used this template in making the icons for your iMessage stickers by [tweeting me at @michaelsoolee](https://twitter.com/michaelsoolee) on Twitter or creating a [pull request](https://github.com/michaellee/iOS10-iMessage-Stickers-Icon-Sketch-Template/issues/new). I'll add it to this README to share with others.
+Please share if you've used this template in making the icons for your iMessage stickers by [tweeting me at @michaelsoolee](https://twitter.com/michaelsoolee) on Twitter or creating an [issue](https://github.com/michaellee/iOS10-iMessage-Stickers-Icon-Sketch-Template/issues/new). I'll add it to this README to share with others.
 
-### Format when creating pull request
+### Format when creating issue
 
-- Sticker pack name
+Title: [Sticker pack] - Sticker pack name
 - App Store link
 - Link to website or Twitter handle
+
+Title for the new issue should have `[Sticker pack]` then a hyphen and the name of your sticker pack.
+
+In the comment, place your app store link and a link to either your website or a public handle like Twitter.
 
 ## Sticker apps that used this template in the wild
 
