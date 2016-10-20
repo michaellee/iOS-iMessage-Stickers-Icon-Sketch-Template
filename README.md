@@ -4,6 +4,8 @@ This is a simple Sketch template with designated Artboards for all the necessary
 
 I've tried to label all the Artboards so that when exporting assets, the naming convention would make it super simple to match icons to Xcode.
 
+![](https://cloud.githubusercontent.com/assets/1329644/19572743/918f4e0e-96d1-11e6-96e6-1daac15b4516.png)
+
 ## Tell me if you used this template to make your iMessage Stickers
 
 Please share if you've used this template in making the icons for your iMessage stickers by [tweeting me at @michaelsoolee](https://twitter.com/michaelsoolee) on Twitter or creating an [issue](https://github.com/michaellee/iOS10-iMessage-Stickers-Icon-Sketch-Template/issues/new). I'll add it to this README to share with others.
