@@ -24,6 +24,12 @@ In the comment, place your app store link and a link to either your website or a
 
 [Dim and Sum](https://itunes.apple.com/us/app/dim-and-sum/id1159260477?mt=8) by [Adelyn](https://twitter.com/ninjashrew)
 
+## Buy me a slice of :pizza:
+
+If you found this Sketch template helpful, would you buy me a slice of :pizza:? I love eating pizza and it motivates me to make more cool stuff and share it.
+
+<a href="https://www.paypal.me/michaelsoolee/2.50">Buy Michael a slice of :pizza:</a>
+
 ## License
 
 [MIT](https://github.com/michaellee/iOS10-iMessage-Stickers-Icon-Sketch-Template/blob/master/LICENSE.md) &copy; [Michael Lee](https://michaelsoolee.com/)
