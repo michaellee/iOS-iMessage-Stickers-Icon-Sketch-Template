@@ -24,6 +24,8 @@ In the comment, place your app store link and a link to either your website or a
 
 [Dim and Sum](https://itunes.apple.com/us/app/dim-and-sum/id1159260477?mt=8) by [Adelyn](https://twitter.com/ninjashrew)
 
+[Clyde Stickers](https://itunes.apple.com/us/app/clyde-stickers/id1292150783?mt=8) by [Kelsey Dieterich](http://www.kelseydieterich.com/)
+
 ## Buy me a slice of :pizza:
 
 If you found this Sketch template helpful, would you buy me a slice of :pizza:? I love eating pizza and it motivates me to make more cool stuff and share it.
