@@ -26,6 +26,8 @@ In the comment, place your app store link and a link to either your website or a
 
 [Clyde Stickers](https://itunes.apple.com/us/app/clyde-stickers/id1292150783?mt=8) by [Kelsey Dieterich](http://www.kelseydieterich.com/)
 
+[Loot Llamas Stickers](https://itunes.apple.com/gb/app/loot-llamas-battle-royale/id1325952717?mt=8) by [Justin Wong](https://twitter.com/fulltimeuser)
+
 ## Buy me a slice of :pizza:
 
 If you found this Sketch template helpful, would you buy me a slice of :pizza:? I love eating pizza and it motivates me to make more cool stuff and share it.
